@@ -6,15 +6,12 @@
 
     
     
-2. 
+## 2. 
 
 ## Dada a seguinte arvore binária de palavras, faça uma função que busque nessa arvore pela palavra-chave. O output da sua função deve ser o caminho até chegar no item procurado. Por exemplo, se o input de buscar for “goiaba” o output deve ser uma string “Maça -&gt; morango -&gt; Goiaba”.
 
-
-![alt text](https://raw.githubusercontent.com/heitorgiacomini/ExerciciosBotDoc/main/ex2img.png)
 ![ex2](ex2img.png)
 
-![enter image description here](https://raw.githubusercontent.com/heitorgiacomini/ExerciciosBotDoc/main/ex2img.png)
 
 3. 
 
